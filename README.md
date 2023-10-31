@@ -8,9 +8,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vrxp0059&label=Profile%20views&color=0e75b6&style=plastic" alt="vrxp0059" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vrxp0059&theme=algolia" alt="vrxp0059"  /></p>
-
 
 ## 🛠️ My Skills
 

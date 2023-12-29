@@ -138,15 +138,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FILMA0010&bg_color=0b0b0b&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect

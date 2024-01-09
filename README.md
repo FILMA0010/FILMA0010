@@ -6,9 +6,9 @@
 <hr/>
 <h4 align="center">I am a student in Rheinland-Pfalz, Germany. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vrxp0059&label=Profile%20views&color=0e75b6&style=plastic" alt="FILMA0010" /> 
-</p>
-<p align="center"><img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=1c1c1c&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23763%26project%3D%26in%3D0">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vrxp0059&label=Views&color=1c1c1c&style=for-the-badge&abbreviated=true" alt="FILMA0010" />
+</br>
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=1c1c1c&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23763%26project%3D%26in%3D0">
 </p>
 
 
@@ -31,7 +31,11 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white">
+  </a>
+	  &emsp;
+<a href="https://www.lua.org" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Lua-%23007396.svg?logo=lua&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -56,6 +60,10 @@
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+&emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/React-%232370ED.svg?style=flat&logo=React&logoColor=white"/>
   </a>
 </p>
 
@@ -86,8 +94,12 @@
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
   </a> 
     &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Photoshop-%2300f.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
+  </a>
+      &emsp;
+  <a href="https://www.adobe.com/in/products/afereffects.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe After Effects-%2300f.svg?style=flat&logo=adobeaftereffects&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 

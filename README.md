@@ -8,7 +8,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vrxp0059&label=Profile%20views&color=0e75b6&style=plastic" alt="FILMA0010" /> 
 </p>
-<p align="center"><img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23763%26project%3D%26in%3D0"> 
+<p align="center"><img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=1c1c1c&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23763%26project%3D%26in%3D0">
 </p>
 
 
